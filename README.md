@@ -1,6 +1,6 @@
 # Backend Assessment - Blog Posts
 
-Tech stack = Node.js, Express, Jest 
+Tech stack: Node.js, Express, Jest 
 
 ## Setup
 Ensure you have `Node.js` and `npm` ( or `yarn` ) installed. <br />
@@ -31,7 +31,7 @@ Route 1: /api/ping
 
 Route 2: /api/posts
 
-An /api/posts route that handles the following query parameters: <br />
+The /api/posts route handles the following query parameters: <br />
 
 * tags (mandatory) : any number of comma-separated strings (example: /api/posts?tags=tech,health)<br />
 * sortBy (optional) : one of “id” (default), “reads”, “likes”, “popularity” (example: /api/posts?tags=tech&sortBy=likes) <br />
