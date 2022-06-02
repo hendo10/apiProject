@@ -35,7 +35,7 @@ An /api/posts route that handles the following query parameters: <br />
 
 * tags (mandatory) : any number of comma-separated strings (example: /api/posts?tags=tech,health)<br />
 * sortBy (optional) : one of “id” (default), “reads”, “likes”, “popularity” (example: /api/posts?tags=tech&sortBy=likes) <br />
-* direction (optional) : one of “asc” (default), “desc”, defaults to “asc” (example: /api/posts?tags=tech&sortBy=likes&direction=desc)
+* direction (optional) : one of “asc” (default), “desc” (example: /api/posts?tags=tech&sortBy=likes&direction=desc)
 
 ## Testing
 
