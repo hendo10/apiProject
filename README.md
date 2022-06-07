@@ -1,4 +1,4 @@
-# Backend Assessment - Blog Posts
+# API Project - Blog Posts
 
 Tech stack: Node.js, Express, Jest 
 
